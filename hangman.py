@@ -1,9 +1,9 @@
 # ------------------------------------------------------------------------------
 # Name:        Hangman
 # Purpose:     project
-# Author:      N.DEE
+# Author:      N.DEE + P.ZMYSLONY
 # Created:     07/11/2019
-# Revision:    2.00
+# Revision:    3.00
 # ------------------------------------------------------------------------------
 # -- IMPORTS --
 import winsound
