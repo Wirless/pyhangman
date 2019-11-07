@@ -12,7 +12,6 @@ import reusables as r
 import words as w
 from stages import steps, free
 # -- GLOBALS/CONSTANTS --
-options = ("simple", "medium", "hard")
 # -- FUNCTIONS/CLASSES --
 def title_menu():
 	"""
